@@ -101,7 +101,7 @@ repositories:
     version: jazzy
   ros-visualization/qt_gui_core:
     type: git
-    url: https://github.com/ros-visualization/qt_gui_core.git
+    url: https://github.com/revyos-ros/qt_gui_core.git
     version: jazzy
   ros-visualization/rqt:
     type: git
